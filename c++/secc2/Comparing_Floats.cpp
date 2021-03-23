@@ -13,7 +13,7 @@ int main(){
 	else{
 		cout << "not equal" << endl;
 	}
-	cout << setprecision(10) << value1 << endl
+	cout << setprecision(10) << value1 << endl;
 	
 	return 0;
 }
